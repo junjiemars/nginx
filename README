@@ -1,3 +1,11 @@
+# nginx lab
 
-Documentation is available at http://nginx.org
+## Download source
+
+## Build from source
+1) ./configure --prefix=<nginx-run-dir>
+
+## References
+1) Documentation is available at http://nginx.org
+
 
